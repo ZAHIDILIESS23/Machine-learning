@@ -1,11 +1,4 @@
-# [MXML-01-03] 3.sklearnKNN(iris).py
-#
-# This code was used in the machine learning online 
-# course provided by www.youtube.com/@meanxai.
-#
-# A detailed description of this code can be found in
-# https://youtu.be/yixEw8sL8x0
-#
+
 import numpy as np
 from sklearn.datasets import load_iris
 from sklearn.neighbors import KNeighborsClassifier
