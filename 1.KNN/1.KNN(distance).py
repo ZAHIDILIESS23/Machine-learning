@@ -1,11 +1,4 @@
-# [MXML-1-01] 1.KNN(distance).py
-#
-# This code was used in the machine learning online 
-# course provided by www.youtube.com/@meanxai.
-#
-# A detailed description of this code can be found in
-# https://youtu.be/HmunSzYCKtg
-#
+
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.datasets import make_blobs
