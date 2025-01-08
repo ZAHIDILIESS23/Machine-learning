@@ -1,11 +1,4 @@
-# [MXML-1-04] 4.WKNN.py
-#
-# This code was used in the machine learning online 
-# course provided by www.youtube.com/@meanxai.
-#
-# A detailed description of this code can be found in
-# https://youtu.be/YtLOE_ggk3s
-#
+
 import numpy as np
 
 # the shape of distance matrix = (5, 10)
