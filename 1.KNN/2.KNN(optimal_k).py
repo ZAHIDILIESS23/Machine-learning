@@ -1,11 +1,4 @@
-# [MXML-1-02] 2.KNN(optimal_k).py
-#
-# This code was used in the machine learning online 
-# course provided by www.youtube.com/@meanxai.
-#
-# A detailed description of this code can be found in
-# https://youtu.be/GQe5W0xmm5s
-#
+
 import numpy as np
 from sklearn.datasets import make_blobs
 import matplotlib.pyplot as plt
